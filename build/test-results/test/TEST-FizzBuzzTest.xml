@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FizzBuzzTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-05-12T12:34:30" hostname="Alexandras-MacBook-Pro-2.local" time="0.001">
+  <properties/>
+  <testcase name="ShouldReturnBuzz" classname="FizzBuzzTest" time="0.0"/>
+  <testcase name="ShouldReturnFizz" classname="FizzBuzzTest" time="0.0"/>
+  <testcase name="ShouldTheNumber" classname="FizzBuzzTest" time="0.0"/>
+  <testcase name="ShouldReturnFizzBuzz" classname="FizzBuzzTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
